@@ -239,4 +239,4 @@ Grounded is the complete free version with all features and updates included, en
 Get ready to embark on an extraordinary adventure in Grounded! Download your free version today and start your journey into the miniature world of survival and exploration!
 
 ---
-**Last updated:** 2026-10-04 05:10:39 UTC
+**Last updated:** 2026-10-04 12:03:16 UTC
